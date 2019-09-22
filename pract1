@@ -1,0 +1,11 @@
+Q1. Write a program that allows the user to enter any integer base and integer exponent
+and displays the value of the base raised to that exponent.
+Q2. Ramesh’s basic salary is input through the keyboard. His dearness allowance (DA) is
+40% of basic salary, and house rent allowance (HRA) is 20% of basic salary. Write a
+program to calculate his gross salary.
+
+Q3. Temperature of a city in Fahrenheit degrees is input through the keyboard. Write a
+program to convert this temperature into centigrade degrees.
+Q4. The length and breadth of a rectangle and radius of a circle are input through the
+keyboard. Write a program to calculate area and perimeter of the rectangle, and area
+and circumference of the circle.
